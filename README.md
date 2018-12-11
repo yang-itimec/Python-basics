@@ -14,13 +14,13 @@ Ejercicios del curso de Python Avanzado impartido por Borja Balparda en C2B (Bil
 **2. Funciones Financieras**  
 
 **3. ETL y Enriquecimiento**  
->  3.1 Uniones
->  3.2 Uniones y Transformaciones
+>  3.1 Uniones  
+>  3.2 Uniones y Transformaciones  
 
-**4. Filtrados y Agregados**
->  4.1 Filtrados
->  4.2 Agregados
+**4. Filtrados y Agregados**  
+>  4.1 Filtrados  
+>  4.2 Agregados  
 
-**5. Quality**
->  5.1 Outliers
->  5.2 Tratamiento Valores Perdidos
+**5. Quality**  
+>  5.1 Outliers  
+>  5.2 Tratamiento Valores Perdidos  
