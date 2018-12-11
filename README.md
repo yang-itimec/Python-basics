@@ -9,13 +9,10 @@ Ejercicios del curso de Python Avanzado impartido por Borja Balparda en C2B (Bil
 >  1.4 Iteraciones  
 >  1.5 Funciones  
 >  1.6 Recursividad  
->  1.7 Filesystem (Ficheros)  
 
 **2. Funciones Financieras**  
 
-**3. ETL y Enriquecimiento**  
->  3.1 Uniones  
->  3.2 Uniones y Transformaciones  
+**3. ETL y Enriquecimiento**   
 
 **4. Filtrados y Agregados**  
 >  4.1 Filtrados  
