@@ -1,6 +1,7 @@
 # Python-basics
 
 Ejercicios del curso de Python Avanzado impartido por Borja Balparda en C2B (Bilbao)
+https://www.campus2b.com/curso/python/
 
 **1. Introducción**   
 >  1.1 Introducción  
