@@ -6,7 +6,9 @@ con privilegios de administrador.
 ```powershell
 conda install ecos
 conda install CVXcanon
-pip install [Ruta Completa]\fancyimpute-0.3.1.tar.gz
+pip install fancyimpute==0.3.1.
+
+pip install [Ruta Completa]\fancyimpute-0.3.1.tar.gz _Para instalar el .tar.gz adjunto_
 
 pip install msgpack _Sólo si nos da error._
 ```
